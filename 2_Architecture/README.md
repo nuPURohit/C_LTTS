@@ -8,7 +8,7 @@
 * or any other free tools
 
 * Referring to the following gameboard setup:
-![Gameboard_Setup](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/6_ImagesAndVideos/Screenshot%202021-04-12%20163251.png)
+![Gameboard_Setup]()
 * Rank => Rows(1 to 8)  Files => Columns(a to h)
 * UpperCase => White Piece Lowercase => Blackpiece
 # King "K" "k" 
