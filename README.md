@@ -1,7 +1,7 @@
 # Chess Engine
 
 * In computer chess, a chess engine is a computer program that analyzes chess or chess variant positions, and generates a move or list of moves that it regards as strongest. A chess engine is usually a back end with a command-line interface with no graphics or windowing.
-* So the project focuses on building the chess Engine with the help of C Language.
+* So the project focuses on building the Chess Engine with the help of C Language.
 
 
 
@@ -29,8 +29,14 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 `259899` | Nupur Purohit  | Feature A, B etc    | X No     | X No   |X No   |X No     
    
 
-## Challenges Faced and overcoming approach
+## Expectations vs. Implementation
+# Code
+1. Multi Function and Multi File Approach ✅
+2. MakeFile based Compilation for Windows + Linux OS ✅
+3. Doxygen based Documentation 
+4. Unit Testing of the code ✅
+5. Clean Code ✅
+6. Use of Concepts: structures,typedef,enums,pointers,function,dynamic memory and function pointer ✅
 
-1. 
 
 
