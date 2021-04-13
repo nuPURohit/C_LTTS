@@ -18,9 +18,12 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option) | Valgrin
 Folder             | Description
 -------------------| -----------------------------------------
 `1. Requirements`   | Documents detailing requirements and research
-`2. Design`         | Documents specifying design details
+`2. Architechture`         | Documents specifying design details
 `3. Implementation` | All code and documentation
-`4. Test_plan`      | Documents with test plans and procedures
+`4. Test Plan and Output`      | Documents with test plans and procedures
+`5. Report` | Overview 
+`6.Images and Videos` | How to play
+`7. SWOT Analysis` | Strenght,Weakness,Opputunity,Threat
 
 ## Contributors List and Summary
 
@@ -34,7 +37,7 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 1. Multi Function and Multi File Approach :heavy_check_mark:
 2. MakeFile based Compilation for Windows + Linux OS :heavy_check_mark:
 3. Doxygen based Documentation 
-4. Unit Testing of the code :heavy_check_mark:
+4. Unit Testing of the code 
 5. Clean Code :heavy_check_mark:
 6. Use of Concepts: structures,typedef,enums,pointers,function,dynamic memory and function pointer :heavy_check_mark:
 
