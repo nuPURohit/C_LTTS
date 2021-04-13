@@ -12,7 +12,7 @@ Visit [Pages for Report -optional](using github.io option)
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 |---------|--------------|-----------|------------------
-[![C/C++ CI])|[![Static Check]() [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a3ac388f05342c88c2e8bde4a2931fe)](https://www.codacy.com/gh/nuPURohit/LTTS_MiniProject_StepIn/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nuPURohit/LTTS_MiniProject_StepIn&amp;utm_campaign=Badge_Grade) | [![Unity-Check]() | [![git inspector CI]()
+[![C/C++ CI]()|[![Static Check]() [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a3ac388f05342c88c2e8bde4a2931fe)](https://www.codacy.com/gh/nuPURohit/LTTS_MiniProject_StepIn/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nuPURohit/LTTS_MiniProject_StepIn&amp;utm_campaign=Badge_Grade) | [![Unity-Check]() | [![git inspector CI]()
 
 
 ## Folder Structure
