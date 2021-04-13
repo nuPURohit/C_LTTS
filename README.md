@@ -31,12 +31,12 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## Expectations vs. Implementation
 # Code
-1. Multi Function and Multi File Approach ✅
-2. MakeFile based Compilation for Windows + Linux OS ✅
+1. Multi Function and Multi File Approach :heavy_check_mark:
+2. MakeFile based Compilation for Windows + Linux OS :heavy_check_mark:
 3. Doxygen based Documentation 
-4. Unit Testing of the code ✅
-5. Clean Code ✅
-6. Use of Concepts: structures,typedef,enums,pointers,function,dynamic memory and function pointer ✅
+4. Unit Testing of the code :heavy_check_mark:
+5. Clean Code :heavy_check_mark:
+6. Use of Concepts: structures,typedef,enums,pointers,function,dynamic memory and function pointer :heavy_check_mark:
 
 
 
