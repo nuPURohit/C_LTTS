@@ -38,6 +38,8 @@ SF Id. |  Name   |    Features
 3. Doxygen based Documentation :heavy_check_mark:
 4. Clean Code :heavy_check_mark:
 5. Use of Concepts: structures,typedef,enums,pointers,function,dynamic memory and function pointer :heavy_check_mark:
+6. Unity Testing :heavy_check_mark:
+7. Valgrind :heavy_check_mark:
 
 ## Reference:
 1. [reference](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg)
