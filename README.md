@@ -9,8 +9,8 @@
 ![Poster](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/6_ImagesAndVideos/1200px-AAA_SVG_Chessboard_and_chess_pieces_02.svg.png)
 
 
-Build | Code Quality | [Git Inspector]
-|---------|--------------|-----------|-----------------
+Build | Code Quality | Git Inspector
+---------|--------------|-----------
 [![C/C++ CI](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/c-cpp.yml)|[![cppcheck-action](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/cppcheck.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a3ac388f05342c88c2e8bde4a2931fe)](https://www.codacy.com/gh/nuPURohit/LTTS_MiniProject_StepIn/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nuPURohit/LTTS_MiniProject_StepIn&amp;utm_campaign=Badge_Grade) | [![Contribution Check - Git Inspector](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/git-inspector.yml/badge.svg)](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/git-inspector.yml) 
 
 
