@@ -11,7 +11,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option) | Valgrind
 |---------|--------------|-----------|------------------|---------------
-[![C/C++ CI]()|[![Static Check]() [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a3ac388f05342c88c2e8bde4a2931fe)](https://www.codacy.com/gh/nuPURohit/LTTS_MiniProject_StepIn/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nuPURohit/LTTS_MiniProject_StepIn&amp;utm_campaign=Badge_Grade) | [![Unity-Check]() | [![git inspector CI]() |[![Valgrind]()
+[![C/C++ CI](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/c-cpp.yml)|[![cppcheck-action](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/cppcheck.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a3ac388f05342c88c2e8bde4a2931fe)](https://www.codacy.com/gh/nuPURohit/LTTS_MiniProject_StepIn/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nuPURohit/LTTS_MiniProject_StepIn&amp;utm_campaign=Badge_Grade) | [![Unity-Check]() | [![Contribution Check - Git Inspector](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/git-inspector.yml/badge.svg)](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/git-inspector.yml) |[![Valgrind]()
 
 
 ## Folder Structure
