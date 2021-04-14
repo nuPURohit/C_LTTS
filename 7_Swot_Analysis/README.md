@@ -1,4 +1,7 @@
-# other
+# SWOT Analysis
 
-* Add any other folders or files which are created for the project
+## Strength
+## Weakness
+## Oppurtunity
+## Threat
 
