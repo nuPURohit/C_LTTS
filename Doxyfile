@@ -5,9 +5,8 @@
 #---------------------------------------------------------------------------
 DOXYFILE_ENCODING      = UTF-8
 PROJECT_NAME           = LTTS_MP_Stepin
-PROJECT_NUMBER         =
-PROJECT_BRIEF          =
-PROJECT_LOGO           =
+SFID                   = 259899
+PROJECT_BRIEF          = Chess Engine
 OUTPUT_DIRECTORY       = .\3_Implementation\documentation
 CREATE_SUBDIRS         = NO
 ALLOW_UNICODE_NAMES    = NO
