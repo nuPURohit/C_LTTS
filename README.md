@@ -27,9 +27,9 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-`259899` | Nupur Purohit  | 1) Move Genration 2) Castling 3) Enpassant 4) CheckMate|-|-|- |-     
+SF Id. |  Name   |    Features    
+-------|---------|----------------
+`259899` | Nupur Purohit  | 1) Move Genration 2) Castling 3) Enpassant 4) CheckMate   
    
 
 ## Expectations vs. Implementation
