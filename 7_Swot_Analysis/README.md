@@ -1,6 +1,6 @@
 # SWOT Analysis
 
-## Strength ## Weakness ## Oppurtunity ## Threat
+## Strength Weakness Opportunity Threat
 
 ## Analyze Your Strengths and Weaknesses by Phases
 The easiest way to do this is by making a well-known division of your game into 3 phases – the Opening, Middlegame, and Endgame. If you’re achieving terrible positions in the opening – why would you spend time studying endgames first? A logical progression of study would seem to generate better overall results. This process is not meant to disregard the other phases of the game, more to say that a well-thought, balanced plan of development as a chess player is the most efficient and effective method.
