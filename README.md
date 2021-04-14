@@ -6,12 +6,12 @@
 
 
 # SDLC Activity Based Learning
-![Poster]()
+![Poster](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/6_ImagesAndVideos/1200px-AAA_SVG_Chessboard_and_chess_pieces_02.svg.png)
 
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option) | Valgrind
-|---------|--------------|-----------|------------------|---------------
-[![C/C++ CI](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/c-cpp.yml)|[![cppcheck-action](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/cppcheck.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a3ac388f05342c88c2e8bde4a2931fe)](https://www.codacy.com/gh/nuPURohit/LTTS_MiniProject_StepIn/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nuPURohit/LTTS_MiniProject_StepIn&amp;utm_campaign=Badge_Grade) | [![Unity-Check]() | [![Contribution Check - Git Inspector](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/git-inspector.yml/badge.svg)](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/git-inspector.yml) |[![Valgrind]()
+Build | Code Quality | [Git Inspector]
+|---------|--------------|-----------|-----------------
+[![C/C++ CI](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/c-cpp.yml)|[![cppcheck-action](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/cppcheck.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a3ac388f05342c88c2e8bde4a2931fe)](https://www.codacy.com/gh/nuPURohit/LTTS_MiniProject_StepIn/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nuPURohit/LTTS_MiniProject_StepIn&amp;utm_campaign=Badge_Grade) | [![Contribution Check - Git Inspector](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/git-inspector.yml/badge.svg)](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/actions/workflows/git-inspector.yml) 
 
 
 ## Folder Structure
@@ -29,14 +29,14 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`259899` | Nupur Purohit  | Feature A, B etc    | X No     | X No   |X No   |X No     
+`259899` | Nupur Purohit  | *  Move Genration * Castling *  Enpassant *  CheckMate|-|-|- |-     
    
 
 ## Expectations vs. Implementation
 # Code
 1. Multi Function and Multi File Approach :heavy_check_mark:
 2. MakeFile based Compilation for Windows + Linux OS :heavy_check_mark:
-3. Doxygen based Documentation 
+3. Doxygen based Documentation :heavy_check_mark:
 4. Unit Testing of the code 
 5. Clean Code :heavy_check_mark:
 6. Use of Concepts: structures,typedef,enums,pointers,function,dynamic memory and function pointer :heavy_check_mark:
