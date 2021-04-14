@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['c1_38',['C1',['../defs_8h.html#a61dadd085c1777f559549e05962b2c9eae54c31a855b907f263d49edcdbe677bd',1,'defs.h']]],
+  ['c2_39',['C2',['../defs_8h.html#a61dadd085c1777f559549e05962b2c9ea5e602f1d68586231698bda7be6af7d2e',1,'defs.h']]],
+  ['c3_40',['C3',['../defs_8h.html#a61dadd085c1777f559549e05962b2c9eada966660d95922946f59862d9ce54b1c',1,'defs.h']]],
+  ['c4_41',['C4',['../defs_8h.html#a61dadd085c1777f559549e05962b2c9ea24727389909cb6406ed9483df7810c78',1,'defs.h']]],
+  ['c5_42',['C5',['../defs_8h.html#a61dadd085c1777f559549e05962b2c9ea26c0a10a3dc0a69747539541f4a82172',1,'defs.h']]],
+  ['c6_43',['C6',['../defs_8h.html#a61dadd085c1777f559549e05962b2c9eae138d2e0243a8b4dcca22738eebc2197',1,'defs.h']]],
+  ['c7_44',['C7',['../defs_8h.html#a61dadd085c1777f559549e05962b2c9ea4f858b829392e960b43c57a9731c98ac',1,'defs.h']]],
+  ['c8_45',['C8',['../defs_8h.html#a61dadd085c1777f559549e05962b2c9ea6a72e133ec9df7aadaeef87557e5cbb0',1,'defs.h']]],
+  ['captured_46',['CAPTURED',['../defs_8h.html#a440e1694c62fdb159c9aa035b35696c2',1,'defs.h']]],
+  ['castlekeys_47',['CastleKeys',['../defs_8h.html#a6ca9e201015eea408b71908751d1bb17',1,'CastleKeys():&#160;init.c'],['../init_8c.html#a6ca9e201015eea408b71908751d1bb17',1,'CastleKeys():&#160;init.c']]],
+  ['castleperm_48',['castlePerm',['../struct_s___u_n_d_o.html#a3b8d19d0c959ed5bdccbcf29a96b1006',1,'S_UNDO::castlePerm()'],['../struct_s___b_o_a_r_d.html#a3b8d19d0c959ed5bdccbcf29a96b1006',1,'S_BOARD::castlePerm()']]],
+  ['castleperm_49',['CastlePerm',['../makemove_8c.html#a39da5875f12590c1733a0b0d61727197',1,'makemove.c']]],
+  ['checkboard_50',['CheckBoard',['../board_8c.html#a94a8326712cd3ca77f7e99e5a7ce2663',1,'CheckBoard(const S_BOARD *pos):&#160;board.c'],['../defs_8h.html#a94a8326712cd3ca77f7e99e5a7ce2663',1,'CheckBoard(const S_BOARD *pos):&#160;board.c']]],
+  ['checkresult_51',['checkresult',['../xboard_8c.html#a8c886966aac9ba144ae2c75e0c3b8bc3',1,'xboard.c']]],
+  ['clearhashtable_52',['ClearHashTable',['../defs_8h.html#ad72a51d700e38aa1611d5162fc79627e',1,'ClearHashTable(S_HASHTABLE *table):&#160;pvtable.c'],['../pvtable_8c.html#ad72a51d700e38aa1611d5162fc79627e',1,'ClearHashTable(S_HASHTABLE *table):&#160;pvtable.c']]],
+  ['clearmask_53',['ClearMask',['../defs_8h.html#a19e9932fb4839e5799a52f94c26d8feb',1,'ClearMask():&#160;init.c'],['../init_8c.html#a19e9932fb4839e5799a52f94c26d8feb',1,'ClearMask():&#160;init.c']]],
+  ['clrbit_54',['CLRBIT',['../defs_8h.html#a830a4070e4e3f75c23dd580cf56561f8',1,'defs.h']]],
+  ['cnt_55',['CNT',['../defs_8h.html#af8c668a2d1e2661c09162bda27fc7ec7',1,'defs.h']]],
+  ['console_5floop_56',['Console_Loop',['../defs_8h.html#ac5fa6c8e94b5322c3df417a6c46f1752',1,'Console_Loop(S_BOARD *pos, S_SEARCHINFO *info):&#160;xboard.c'],['../xboard_8c.html#ac5fa6c8e94b5322c3df417a6c46f1752',1,'Console_Loop(S_BOARD *pos, S_SEARCHINFO *info):&#160;xboard.c']]],
+  ['consolemode_57',['CONSOLEMODE',['../defs_8h.html#adc29c2ff13d900c2f185ee95427fb06ca4a6c8307d519c78b8b3d783afd706c79',1,'defs.h']]],
+  ['count_58',['count',['../struct_s___m_o_v_e_l_i_s_t.html#ad43c3812e6d13e0518d9f8b8f463ffcf',1,'S_MOVELIST']]],
+  ['countbits_59',['CountBits',['../bitboards_8c.html#ac3175e5b15b2b236d8ba40f395819d21',1,'CountBits(U64 b):&#160;bitboards.c'],['../defs_8h.html#ac3175e5b15b2b236d8ba40f395819d21',1,'CountBits(U64 b):&#160;bitboards.c']]],
+  ['cut_60',['cut',['../struct_s___h_a_s_h_t_a_b_l_e.html#a9f2d8af2387febe620773543ae9c870f',1,'S_HASHTABLE']]]
+];
