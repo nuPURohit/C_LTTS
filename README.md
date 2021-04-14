@@ -36,9 +36,8 @@ SF Id. |  Name   |    Features
 1. Multi Function and Multi File Approach :heavy_check_mark:
 2. MakeFile based Compilation for Windows + Linux OS :heavy_check_mark:
 3. Doxygen based Documentation :heavy_check_mark:
-4. Unit Testing of the code 
-5. Clean Code :heavy_check_mark:
-6. Use of Concepts: structures,typedef,enums,pointers,function,dynamic memory and function pointer :heavy_check_mark:
+4. Clean Code :heavy_check_mark:
+5. Use of Concepts: structures,typedef,enums,pointers,function,dynamic memory and function pointer :heavy_check_mark:
 
 ## Reference:
 1. [reference](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg)
