@@ -33,7 +33,6 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
    
 
 ## Expectations vs. Implementation
-# Code
 1. Multi Function and Multi File Approach :heavy_check_mark:
 2. MakeFile based Compilation for Windows + Linux OS :heavy_check_mark:
 3. Doxygen based Documentation :heavy_check_mark:
