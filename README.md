@@ -29,7 +29,7 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    
 -------|---------|----------------
-`259899` | Nupur Purohit  | 1) [Promotion](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/2_Architecture/README.md#promotion) 2) [Casting](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/2_Architecture/README.md#castling) 3) [EnPassant](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/2_Architecture/README.md#enpassant) 4) [CheckMate}(https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/2_Architecture/README.md#check-and-checkmate) 5) [Stalemate](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/2_Architecture/README.md#stalemate-and-dead)
+`259899` | Nupur Purohit  | 1) [Promotion](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/2_Architecture/README.md#promotion) 2) [Casting](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/2_Architecture/README.md#castling) 3) [EnPassant](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/2_Architecture/README.md#enpassant) 4) [CheckMate](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/2_Architecture/README.md#check-and-checkmate) 5) [Stalemate](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/2_Architecture/README.md#stalemate-and-dead)
    
 
 ## Expectations vs. Implementation
