@@ -42,6 +42,6 @@ SF Id. |  Name   |    Features
 
 
 ## Reference:
-1. [reference](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg)
+1. [reference](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiE3KLR4v3vAhXaXSsKHcLXD4kQFjAAegQIAxAD&url=https%3A%2F%2Fwww.chessprogramming.org%2FVice&usg=AOvVaw0DH7LHhtzWCGvXYBvM26YV)
 
 
