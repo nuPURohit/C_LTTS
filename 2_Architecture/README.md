@@ -1,4 +1,5 @@
 # Architecture
+![UML](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/2_Architecture/chess_engine_uml.png)
 
 *  Referring to the following gameboard setup:
 ![Gameboard_Setup](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/6_ImagesAndVideos/Screenshot%202021-04-12%20163251.png)
