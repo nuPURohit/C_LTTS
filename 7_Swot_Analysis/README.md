@@ -13,4 +13,4 @@ Beginner chess players have a tendency to jump at a quick opportunity to win an 
 ### “Intelligence is the ability to adapt to change.” – Stephen Hawking
 
 # High Level and Low Level requirements
-[!HL_LL](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/6_ImagesAndVideos/HIGH-LEVEL-DESIGNsmall.png)
+![HL_LL](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/6_ImagesAndVideos/HIGH-LEVEL-DESIGNsmall.png)
