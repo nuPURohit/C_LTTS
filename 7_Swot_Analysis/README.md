@@ -25,10 +25,10 @@ Beginner chess players have a tendency to jump at a quick opportunity to win an 
     6) Input: SRS --> Windows as well as Linux OS works fine
     7) Results --> Able to solve a ckeck mate
 ## Low Level Requirements are: 
-    1) Detailed Description --> [Architecture](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/tree/main/2_Architecture#architecture)
-    2) Target Audience --> Chess programmers
-    3) Main Idea --> [Video](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/6_ImagesAndVideos/2021-04-14_17-26-10.mp4)
-    4) Goal --> Able to generate every possible move and suggest the best on basic of depth, time and nodes
-    5) Chronology --> [Documentation](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/Doxyfile)
-    6) Input --> [System Requirements Specification](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/tree/main/1_Requirements#requirements)
-    7) Results --> [Unit Test Plan](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/tree/main/4_TestPlanAndOutput#project-timeline)
+   1) Detailed Description --> [Architecture](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/tree/main/2_Architecture#architecture)
+   2) Target Audience --> Chess programmers
+   3) Main Idea --> [Video](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/6_ImagesAndVideos/2021-04-14_17-26-10.mp4)
+   4) Goal --> Able to generate every possible move and suggest the best on basic of depth, time and nodes
+   5) Chronology --> [Documentation](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/Doxyfile)
+   6) Input --> [System Requirements Specification](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/tree/main/1_Requirements#requirements)
+   7) Results --> [Unit Test Plan](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/tree/main/4_TestPlanAndOutput#project-timeline)
