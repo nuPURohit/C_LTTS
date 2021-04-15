@@ -11,3 +11,6 @@ For example, once you have identified your strengths in the Opening phase you wi
 Beginner chess players have a tendency to jump at a quick opportunity to win an extra pawn or dive into a trap or gambit without seeing the true outcome. In business the SWOT analysis isn’t only about seeing your opportunities and threats but comparing them against each other. Chess is very useful in training a business mind in this aspect because a beginner entrepreneur may also jump into a potential opportunity without properly balancing out the risks and threats. A true chess master will always carefully analyze both opportunities and threats, and combine it with his known strengths and weaknesses to result in the best analytical decision.
 
 ### “Intelligence is the ability to adapt to change.” – Stephen Hawking
+
+# High Level and Low Level requirements
+[!HL_LL](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/6_ImagesAndVideos/HIGH-LEVEL-DESIGNsmall.png)
