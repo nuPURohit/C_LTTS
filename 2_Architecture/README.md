@@ -1,4 +1,4 @@
-# Architecture
+# Architecture - UML
 ![UML](https://github.com/nuPURohit/LTTS_MiniProject_StepIn/blob/main/2_Architecture/chess_engine_uml.png)
 
 *  Referring to the following gameboard setup:
